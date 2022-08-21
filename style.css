@@ -1,0 +1,49 @@
+margin{
+    0px
+}
+.container{
+    height: auto;
+    width: 100%;
+    background-color: blue;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+}
+.div_1{
+    height: 100px;
+    width: 50%;
+    background-color: purple;
+    text-align: left;
+    float: left;
+}
+.div_2{
+    height: 100px;
+    width: 50%;
+    background-color: green;
+    text-align: left; 
+    float: left;
+}
+.div_3{
+    height: 100px;
+    width: 50%;
+    background-color: yellow;
+    text-align: left; 
+    float: left;
+}
+.div_4{
+    height: 100px;
+    width: 50%;
+    background-color: brown;
+    text-align: left; 
+    float: left;
+}
+.footers{
+    height: 100px;
+    width:100%;
+    background-color:dimgray;
+    float: left;
+    text-align: center;
+}
